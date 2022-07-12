@@ -6,7 +6,7 @@ System Analyst
 
 * 🌍  I'm based in Aguascalientes, México.
 * ✉️  You can contact me at [eflores@feranai.com](mailto:eflores@feranai.com)
-
+* Here you will find some repositories with different resources and I will be uploading my projects.
 ### Skills
 
 <p align="left">
